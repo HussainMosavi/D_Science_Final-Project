@@ -1,4 +1,4 @@
-# D_Science_Final-Project
+# D_Science_Final-Project (Group 5)
 World Stock Prices Analysis 📈
 1. Overview
 This project analyzes global stock prices using historical data from various stock exchanges. The analysis focuses on exploring trends, volatility, and performance of different stocks over time.
